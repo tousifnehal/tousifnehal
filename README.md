@@ -22,6 +22,7 @@ Apart from coding, I enjoy Reading & Learning About Technology And Computers.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tousifnehal&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousifnehal&size_weight=0.6&count_weight=0.6&theme=dracula)
 
 ## Connect with Me
