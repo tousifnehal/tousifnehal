@@ -1,18 +1,17 @@
 # Hello, I'm Tousif Nehal! 👋
 
-I'm a student who reads in school. My Goal is to discover the undiscovered. Welcome to my GitHub profile!
+A student who reads in school and likes to do some new things and dumb things too. The goal of mine is to discover the undiscovered. Thanks for having a visit to my github profile
 
 ## About Me
 
 - ➡ Pronouns: he/him.
 - 🌱 I’m currently learning **Python**.
-- 💬 Let's talk about anything and everything tech-related!
-
+- ➡ Likes to learn  
 
 ### Languages and Tools 🛠️
+
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
 
 
 ## Interests
@@ -22,7 +21,7 @@ Apart from coding, I enjoy Reading & Learning About Technology And Computers.
 ## GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tousifnehal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tousifnehal&show_icons=true&theme=radical)
 
 ## Connect with Me
 [![website](./svg/globe-light.svg) Portfolio](https://tousifnehal.vercel.app#gh-light-mode-only)
